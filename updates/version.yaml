@@ -1,0 +1,4 @@
+1.0.0:
+ - Initial version
+ - Add fusion fields to user table
+ - add_fusion_fields_to_user_table.php
