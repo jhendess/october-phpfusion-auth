@@ -1,3 +1,5 @@
+1.0.1:
+ - Added missing requirement on RainLab.User
 1.0.0:
  - Initial version
  - Add fusion fields to user table

@@ -12,6 +12,8 @@ use Jhendess\FusionAuth\Classes\FusionLoginCheck;
  */
 class Plugin extends PluginBase {
 
+    public $require = ['RainLab.User'];
+
     /**
      * Returns information about this plugin.
      *
